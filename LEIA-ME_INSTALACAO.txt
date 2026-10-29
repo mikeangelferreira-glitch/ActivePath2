@@ -1,0 +1,16 @@
+ACTIVEPATH - PUBLICACAO GRATUITA NO GITHUB PAGES
+
+1. Criar uma conta gratuita em github.com.
+2. Criar um repositório PUBLICO chamado activepath.
+3. Carregar TODO o conteúdo desta pasta para a raiz do repositório.
+4. Abrir Settings > Pages.
+5. Em Build and deployment, escolher Deploy from a branch.
+6. Selecionar main e /(root), depois Save.
+7. Abrir o endereço indicado pelo GitHub Pages.
+8. No Chrome Android: menu > Instalar aplicação ou Adicionar ao ecrã principal.
+
+IMPORTANTE
+- Não carregar a pasta exterior; carregar os ficheiros desta pasta para a raiz.
+- O ficheiro index.html deve ficar visível na primeira página do repositório.
+- O repositório será público no GitHub Free. Não incluir dados pessoais ou backups JSON no repositório.
+- Sessões e pesos ficam no telemóvel, não no repositório.
