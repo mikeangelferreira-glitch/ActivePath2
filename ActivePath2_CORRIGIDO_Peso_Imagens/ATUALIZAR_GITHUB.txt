@@ -1,0 +1,14 @@
+ACTIVEPATH2 - CORREÇÃO FINAL
+
+1. Substituir todos os ficheiros na raiz do repositório ActivePath2 pelos ficheiros deste pacote.
+2. Fazer Commit changes.
+3. Abrir o site e atualizar.
+
+CORREÇÕES
+- As 36 fases animadas estão incorporadas no index.html.
+- O peso inicial e a data começam vazios.
+- O peso atual mostra “—” até o utilizador definir ou registar um peso.
+- O peso inicial é definido no Perfil.
+- Pesos posteriores são registados em Registos, com data, sessão e nota opcionais.
+
+Se já existirem sessões reais, exportar primeiro Perfil > Cópia JSON antes de limpar dados do site.
